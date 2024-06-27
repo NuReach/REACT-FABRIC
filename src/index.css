@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sample-canvas{
+  width: 600px;
+  height: 600px;
+  border: black;
+  border-color: black;
+  background-color: aqua;
+}
